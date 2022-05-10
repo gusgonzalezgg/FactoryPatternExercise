@@ -1,0 +1,16 @@
+C:\Users\gusgo\OneDrive\Desktop\repos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\net5.0\FactoryPatternExercise.exe
+C:\Users\gusgo\OneDrive\Desktop\repos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\net5.0\FactoryPatternExercise.deps.json
+C:\Users\gusgo\OneDrive\Desktop\repos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\net5.0\FactoryPatternExercise.runtimeconfig.json
+C:\Users\gusgo\OneDrive\Desktop\repos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\net5.0\FactoryPatternExercise.runtimeconfig.dev.json
+C:\Users\gusgo\OneDrive\Desktop\repos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\net5.0\FactoryPatternExercise.dll
+C:\Users\gusgo\OneDrive\Desktop\repos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\net5.0\FactoryPatternExercise.pdb
+C:\Users\gusgo\OneDrive\Desktop\repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.csproj.AssemblyReference.cache
+C:\Users\gusgo\OneDrive\Desktop\repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusgo\OneDrive\Desktop\repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.AssemblyInfoInputs.cache
+C:\Users\gusgo\OneDrive\Desktop\repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.AssemblyInfo.cs
+C:\Users\gusgo\OneDrive\Desktop\repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.csproj.CoreCompileInputs.cache
+C:\Users\gusgo\OneDrive\Desktop\repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.dll
+C:\Users\gusgo\OneDrive\Desktop\repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net5.0\refint\FactoryPatternExercise.dll
+C:\Users\gusgo\OneDrive\Desktop\repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.pdb
+C:\Users\gusgo\OneDrive\Desktop\repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.genruntimeconfig.cache
+C:\Users\gusgo\OneDrive\Desktop\repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net5.0\ref\FactoryPatternExercise.dll
